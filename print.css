@@ -1,0 +1,28 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body {font-size:13pt; line-height:24px;}
+img {opacity:0.8;filter:alpha(opacity=80)}
+#wrapper {padding-left:50px;}
+#content_pane {width:800px;}
+#header_wrapper {display:none;}
+#bread_crumb{display:none;}
+#comments {display:none;}
+#right_column {display:none;}
+#social_links {display:none;}
+h1 {display:none;}
+h2.theserif {font-size:2em; margin:0; padding:0;}
+#support_banner_area {display:none;}
+#banner_area {display:none;}
+#main_menu {display:none;}
+#navcontainer {display:none;}
+#footer {display:none;}
+#copyright {width:800px; margin-top:0;}
+#last_edited {display:none;}
+#goToTop {display:none;}
+
+#logo {display:none;}
+#top-menu {display:none;}
+#banner {display:none;}
+#nav-menu {display:none;}
